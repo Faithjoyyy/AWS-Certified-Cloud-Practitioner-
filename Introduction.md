@@ -43,6 +43,4 @@ No prior AWS experience is required.
 
 Each domain covers essential topics to help you understand how AWS works and how it’s used in real-world scenarios.
 
----
-
-Feel free to explore the other sections in this repo for deeper dives into each domain. Happy studying! 
+Please feel free to explore the other sections in this repo for deeper dives into each domain. Happy studying! 
