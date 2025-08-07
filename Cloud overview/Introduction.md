@@ -34,12 +34,12 @@ No prior AWS experience is required.
 
 ### Exam Domains
 
-| Domain                          | Weight |
-|---------------------------------|--------|
-| 1. Cloud Concepts               | 24%    |
-| 2. Security and Compliance      | 30%    |
-| 3. Cloud Technology and Services| 34%    |
-| 4. Billing, Pricing, and Support| 12%    |
+Domain   
+1.Cloud Concepts-24%      
+2.Security and Compliance- 30%  
+3.Cloud Technology and Services-34%  
+4.Billing,Pricing and Support-12 %
+
 
 Each domain covers essential topics to help you understand how AWS works and how it’s used in real-world scenarios.
 
